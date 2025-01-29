@@ -11,3 +11,4 @@
 .page-exit-active {
     @apply transition duration-300 opacity-0 translate-y-5;
 }
+
